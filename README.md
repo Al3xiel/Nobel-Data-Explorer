@@ -21,3 +21,12 @@ Nobel Data Explorer is a platform designed to explore historical and current dat
 
 # Author
 Developed by Alexiel. All rights reserved
+```
+npm install primevue
+npm install @primevue/themes
+npm install primeicons
+npm i primeflex
+npm i axios
+npm install dotenv
+npm install vue-i18n@10
+```
