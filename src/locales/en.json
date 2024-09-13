@@ -1,0 +1,15 @@
+{
+"card": {
+    "full_name": "Full Name",
+    "born": "Born in",
+  "gender": "Gender",
+  "number_prizes": "Number of Prizes"
+},
+  "toolbar": {
+    "title": "Nobel Prizes"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "author": "Developed by"
+  }
+}
